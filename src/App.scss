@@ -1,0 +1,62 @@
+.title {
+  color: white;
+  background-color: #5c5457;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  h1 {
+    padding-left: 50px;
+  }
+  form {
+    color: #5c5457;
+    margin-right: 5px;
+    .All {
+      background-color: white;
+    }
+    .ONLINE {
+      background-color: lightgreen;
+    }
+    .OFFLINE {
+      background-color: lightgray;
+    }
+    label {
+      display: block;
+      background-color: #e1e1e6;
+      padding: 1px 2px 1px 2px;
+      margin: 5px 0 5px 0;
+      cursor: pointer;
+    }
+  }
+}
+.body {
+  text-align: center;
+  table{
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    thead {
+      tr {
+        th {
+          background-color: lightblue;
+          height: 30px;
+        }
+      }
+    }
+    tbody {
+      .offline {
+        background-color: lightgray;
+      }
+      .online {
+        background-color: lightgreen;
+      }
+      tr {
+        td {
+          height: 51px;
+        }
+      }
+    }
+  }
+}
