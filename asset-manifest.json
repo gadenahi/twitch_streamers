@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/twitch_streamers/static/css/main.7965c247.chunk.css",
+    "main.js": "/twitch_streamers/static/js/main.68cd37de.chunk.js",
+    "main.js.map": "/twitch_streamers/static/js/main.68cd37de.chunk.js.map",
+    "runtime-main.js": "/twitch_streamers/static/js/runtime-main.37a7b2e2.js",
+    "runtime-main.js.map": "/twitch_streamers/static/js/runtime-main.37a7b2e2.js.map",
+    "static/js/2.9e3f2fa7.chunk.js": "/twitch_streamers/static/js/2.9e3f2fa7.chunk.js",
+    "static/js/2.9e3f2fa7.chunk.js.map": "/twitch_streamers/static/js/2.9e3f2fa7.chunk.js.map",
+    "index.html": "/twitch_streamers/index.html",
+    "precache-manifest.5c46dc6799f646adb6245cb25e90abeb.js": "/twitch_streamers/precache-manifest.5c46dc6799f646adb6245cb25e90abeb.js",
+    "service-worker.js": "/twitch_streamers/service-worker.js",
+    "static/css/main.7965c247.chunk.css.map": "/twitch_streamers/static/css/main.7965c247.chunk.css.map",
+    "static/js/2.9e3f2fa7.chunk.js.LICENSE.txt": "/twitch_streamers/static/js/2.9e3f2fa7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37a7b2e2.js",
+    "static/js/2.9e3f2fa7.chunk.js",
+    "static/css/main.7965c247.chunk.css",
+    "static/js/main.68cd37de.chunk.js"
+  ]
+}
